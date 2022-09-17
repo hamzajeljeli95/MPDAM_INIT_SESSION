@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MPDAM First App</string>
+    <string name="welcome">Hello Android !</string>
+    <string name="click_me">Click me</string>
+    <string name="click_to_see_magic">Click to see magic !</string>
+    <string name="start">Start !</string>
+    <string name="click_start">Click start</string>
+</resources>
